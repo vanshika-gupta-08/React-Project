@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.footer{
+  margin-top: 35px;
+ padding-top: 35px ;
+  padding-bottom: 0px;
+  background-color: #EDECEF;
+  margin-left: auto;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.items
+{
+   
+  font-size: 18px;
+}
+.headings
+{
+  font-size: 23px;
+  padding-bottom: 15px;
+}
+@media (min-width:450px) {
+  .items {
+     padding-left: 50px;
+    margin:0;
+  }}
+
+
+  .subfooter
+  {
+  padding-top:20px;
+  padding-bottom :12px;
+  padding-left: 0px;
+   margin-top: 20px; 
+
+  bottom: 0;
+  left: 0;
+  width: 100%;
+    background-color: #D8D8D8;
+  }
+  .flag
+  {
+    height :20px;
+    width : 30px;
+    align-content: top;
+    padding-left :5px;
+  }
+  .companyName
+  {
+    font-size: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .rightPart
+  {
+    text-align: right;
+  }
+  @media (max-width:780px) {
+    .rightPart
+  {
+    text-align: center;
+  }
+  .leftPart
+  {
+    text-align: center;
+  }
+    }
+
+    .class1
+    {
+      color :black;
+    }
+
+    a:hover{
+      text-decoration: none;
+    }
+
+    
+.logo
+{
+  height : 30px;
+  width : 30px;
+  padding-top: 0px;
+ 
+}
+.items
+{
+
+  
+  font-size : 15px;
+  color:black;
+}
+.shoppingCart
+{
+  padding-right:15px;
+
+}
+#nav-dropdown{
+  color: black;
+ 
+ 
+}
+@media (min-width:1150px) {
+  .items {
+    padding-left:250px;
+    margin:0;
+  }}
+
